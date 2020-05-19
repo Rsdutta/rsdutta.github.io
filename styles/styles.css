@@ -1,0 +1,15 @@
+a {
+  font-size: 1em;
+    color: #aaa;
+}
+a:hover {
+  color:black;
+}
+
+.button-image {
+    color: black;
+}
+
+.button-image-school {
+    color: #E84A27;
+}
